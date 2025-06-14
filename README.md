@@ -1,6 +1,6 @@
 - 👋 Hi, I’m krishna shivani
 - 👀 I’m interested in Data Science, ML,  IOT
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently working as Data Engineer
 - 📫 How to reach me linkedin.com/in/krishna-shivani-417152184
 
 <!---
